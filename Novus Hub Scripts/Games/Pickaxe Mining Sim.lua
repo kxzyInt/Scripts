@@ -1,4 +1,4 @@
-local Player, Rayfield, Click, comma, Notify, CreateWindow, CurrentVersion = loadstring(game:HttpGet("https://raw.githubusercontent.com/kxzyInt/Scripts/main/Novus%20Hub%20Scripts/Variables.lua"))()
+local Player, Rayfield, Click, comma, Notify, CreateWindow, CurrentVersion = loadstring(game:HttpGet("https://raw.githubusercontent.com/kxzyInt/Scripts/main/Novus%20Hub%20Scripts/NV%20Variables"))()
 
 CurrentVersion("v1.1")
 
